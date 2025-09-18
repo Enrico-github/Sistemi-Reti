@@ -1,0 +1,8 @@
+La segmentazione aumenta l'efficenza della rete riducendo il dominio di collisione aumentando la performance della rete incrementando anche la sicurezza.
+Una rete segmentata è facilmente ampliabile migliorando anche la qualità del servizio.
+metodi di segmentazione: 
+segmentazione fisica, 
+subnetting,
+segmentazione logica, utilizza VLAN(virtual local area network)
+STP(spanning tree protocol)
+BPDU(bridge protocol data unit)
